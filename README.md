@@ -1,2 +1,2 @@
 # composer
-composer study1
+composer study2
