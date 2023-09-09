@@ -1,0 +1,21 @@
+{
+    "name": "mydreamya/composer",
+    "description": "mydream/composer",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mydreamya\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lilu",
+            "email": "1548835804@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
