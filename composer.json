@@ -1,0 +1,14 @@
+{
+    "name": "mydreamya/test",
+    "description": "test",
+    "type": "projuect",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "lilu",
+            "email": "1548835804@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
